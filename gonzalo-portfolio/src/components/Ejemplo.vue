@@ -1,9 +1,10 @@
 <template>
    <nav class="menu">
   <ul>
-    <li><a href="#">Portfolio</a></li>
-    <li><a href="#">Curriculum</a></li>
-    <li><a href="#">Contacto</a></li>
+    <li><a href="#">Project</a></li>
+    <li><a href="#">CV</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#">About me</a></li>
   </ul>
 </nav>
 <button @click="cambiarMensaje"> Click me! </button>
