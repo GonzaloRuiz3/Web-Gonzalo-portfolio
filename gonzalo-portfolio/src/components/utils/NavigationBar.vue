@@ -13,7 +13,7 @@
       <a class="nav-link" href="#">About Me</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#/example">Example</a>
+      <a class="nav-link" href="#/contacto">Contacto</a>
     </li>
   </ul>
   </div>

@@ -1,12 +1,12 @@
 import * as VueRouter from "vue-router"
 
-import Ejemplo from "./components/Ejemplo.vue";
+import Contacto from "./components/Contacto.vue";
 import HelloWorld from "./components/HelloWorld.vue"
 
 
 export const routes = [
     { path: '/', name: "Home",  component: HelloWorld },
-    { path: '/example', name: "Example",  component: Ejemplo }
+    { path: '/contacto', name: "Contacto",  component: Contacto }
 ]
 
 const router = VueRouter.createRouter({
