@@ -10,7 +10,7 @@
       <a class="nav-link active" href="#">Curriculum</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">About Me</a>
+      <a class="nav-link" href="#/cabeza">About Me</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#/contacto">Contacto</a>

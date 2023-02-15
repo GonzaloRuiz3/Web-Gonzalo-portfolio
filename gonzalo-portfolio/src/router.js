@@ -2,6 +2,7 @@ import * as VueRouter from "vue-router"
 
 import Contacto from "./components/Contacto.vue";
 import HelloWorld from "./components/HelloWorld.vue"
+import Projects from "./components/Projects.vue"
 
 
 export const routes = [
