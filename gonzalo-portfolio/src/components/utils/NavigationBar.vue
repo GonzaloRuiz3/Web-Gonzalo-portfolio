@@ -4,7 +4,7 @@
     <a class="navbar-brand">La calva</a>
     <ul class="nav justify-content-end">
       <li class="nav-item">
-      <a class="nav-link active" href="#">Portfolio</a>
+      <a class="nav-link active" href="#/proyectos">Proyectos</a>
     </li>
     <li class="nav-item">
       <a class="nav-link active" href="#">Curriculum</a>

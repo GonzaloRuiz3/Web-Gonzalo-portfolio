@@ -7,7 +7,9 @@ import Projects from "./components/Projects.vue"
 
 export const routes = [
     { path: '/', name: "Home",  component: HelloWorld },
-    { path: '/contacto', name: "Contacto",  component: Contacto }
+    { path: '/contacto', name: "Contacto",  component: Contacto },
+    { path: '/proyectos', name: "Proyectos",  component: Projects },
+    { path: '/play', name: "Play",  component: Aliens },
 ]
 
 const router = VueRouter.createRouter({
